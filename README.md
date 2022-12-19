@@ -17,3 +17,5 @@
 ・[abc263_b.py](https://github.com/dodoya1/atcoder_past_question/blob/master/abc263_b.py)→木(親)
 
 ・[abc263_c.py](https://github.com/dodoya1/atcoder_past_question/blob/master/abc263_c.py)→ビットシフト
+
+・[abc262_b.py](https://github.com/dodoya1/atcoder_past_question/blob/master/abc262_b.py)→グラフ、辺の受け取り方(高速化)
