@@ -12,5 +12,5 @@ while now != 1:
 print(back)
 
 """メモ
-・木
+・木(親)
 """
